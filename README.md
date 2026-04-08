@@ -14,10 +14,20 @@
 
 ## README_PHOTO (사진/영상)
 
-- `README_PHOTO/20260401_152115.jpg`
-- `README_PHOTO/20260401_152117.jpg`
-- `README_PHOTO/20260401_152120.jpg`
-- `README_PHOTO/20260401_155427.jpg`
+### 사진 (미리보기)
+
+<p>
+  <img width="900" alt="20260401_152115" src="README_PHOTO/20260401_152115.jpg" />
+</p>
+<p>
+  <img width="900" alt="20260401_152117" src="README_PHOTO/20260401_152117.jpg" />
+</p>
+<p>
+  <img width="900" alt="20260401_152120" src="README_PHOTO/20260401_152120.jpg" />
+</p>
+<p>
+  <img width="900" alt="20260401_155427" src="README_PHOTO/20260401_155427.jpg" />
+</p>
 
 ### 영상
 
