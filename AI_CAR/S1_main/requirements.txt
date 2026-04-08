@@ -1,0 +1,14 @@
+# S1_main 단독 실행용 (폴더 전체를 라즈베리 파이로 복사)
+# pip install -r requirements.txt
+
+# 기본
+opencv-python>=4.0
+numpy>=1.19
+tensorflow>=2.5
+
+# 신호등 탐지 (block 내장)
+tflite-support>=0.4.0
+
+# PC 원격 제어 클라이언트: pip install Pillow
+# Pi 원격 서버: pip install flask flask-cors
+# Pi 하드웨어: pip install gpiozero pigpio
